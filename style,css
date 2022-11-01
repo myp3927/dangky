@@ -1,0 +1,11 @@
+.form {
+ width: 500px;
+ border: 1px solid rgb(128, 0, 79);
+ padding: 20px;
+ margin: 0 auto;
+ font-weight: 900px;
+}
+.form input {
+ width: 100%;
+ padding: 10px 0;
+}
